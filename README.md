@@ -19,4 +19,4 @@ I developed this music library app using the MERN stack as a practice project. T
 - **Web Fonts**: Uses Google Fonts for improved UI aesthetics  
 - **Unit Tests**: Validates frontend functionality  
 
-This repository contains the **frontend** of the application. You can find the backend repository here: [Backend Repository](https://github.com/bistorben/cs-interview-frontend)  
+This repository contains the **backend** of the application. You can find the backend repository here: [Frontend Repository](https://github.com/bistorben/cs-interview-frontend)  
